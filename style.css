@@ -1,0 +1,34 @@
+body, html{
+    margin: 0 auto;
+}
+
+.nav-top {
+    background-color: grey;
+    width: 100%;
+}
+
+
+span.navbar-item-logo img {
+    top: 50px;
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.navbar-item-logo, .navbar-top-list {
+    display: inline-block;
+}
+
+.navbar-top-list {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: green;
+}
+
+.navbar-top-list li{
+    margin-top: 100px;
+    top: 0px;
+    display: inline-block;
+    padding: 20px;
+    background-color: grey;
+}
